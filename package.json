@@ -1,0 +1,17 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "@discordjs/rest": "^1.7.1",
+    "@editorjs/editorjs": "^2.27.2",
+    "@editorjs/embed": "^2.5.3",
+    "axios": "^1.4.0",
+    "discord-api-types": "^0.37.47",
+    "discord.js": "^11.6.4",
+    "glob": "^10.3.1",
+    "open": "^9.1.0",
+    "puppeteer": "^20.8.0",
+    "ultrax": "^2.0.5",
+    "value": "^0.4.0"
+  }
+}
