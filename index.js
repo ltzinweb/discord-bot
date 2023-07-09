@@ -30,7 +30,7 @@ const { Client, Intents } = require('discord.js');
 
 // Definindo o status personalizado
   client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
+  console.log(`Logado como ${client.user.tag}!`);
 
     
   client.user.setActivity('+cmd', { type: 'STREAMING' });
